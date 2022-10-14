@@ -1,4 +1,3 @@
-- ---
 - 👋 Hi, I’m @SenadAlagic
 - 👀 I’m interested in projects and collaborations, getting in touch with new people and maybe even some job offers.
 - 🌱 I’m currently learning: React and Angular, Node.js, Python's Flask and other.
