@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SenadAlagic
-- 👀 I’m interested in projects and collaborations, getting in touch with new people and maybe even some job offers.
-- 🌱 I’m currently learning: React and Angular, Node.js, Python's Flask and other.
-- 💞️ I’m looking to collaborate on any project, I'm trying to gain experience and learn moving forward.
+- Hi, I’m @SenadAlagic
+- I’m interested in projects and collaborations, getting in touch with new people and maybe even some job offers.
+- I’m currently learning: React and Angular, Node.js, Python's Flask and other.
+- I’m looking to collaborate on any project, I'm trying to gain experience and learn moving forward.
 - ---
 - ### 🛠 &nbsp;Languages and Tools :
 
